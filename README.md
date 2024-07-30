@@ -13,6 +13,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 - Mark Notes as Done: Keep track of completed tasks or notes.
 - Recycle Bin: Restore deleted notes with ease using the bin feature.
 - Simple Settings: Configure settings effortlessly.
+- <img src="applicationImages/UsernameFrame.png" alt="UsernameFrame" width="30" height="30">
 ![UsernameFrame](applicationImages/UsernameFrame.png)
 
  
