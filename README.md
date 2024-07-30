@@ -15,6 +15,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 - Simple Settings: Configure settings effortlessly.
   
 #Images
+
 ![UsernameFrame](applicationImages/UsernameFrame.png)
 ![WelcomingFrame](applicationImages/WelcomingFrame.png)
 ![HomeMenu](applicationImages/HomeMenu.png)
