@@ -7,6 +7,7 @@ NoteTaking PRO
 A simple to-do application developed with Java Swing, offering a clean and minimalistic dark mode design. Created to learn and explore Java Swing for GUI development.
 
 
+
 #Features
 
 - Clean and Minimalistic Design: Welcoming and intuitive interface.
@@ -16,6 +17,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 - Mark Notes as Done: Keep track of completed tasks or notes.
 - Recycle Bin: Restore deleted notes with ease using the bin feature.
 - Simple Settings: Configure settings effortlessly.
+
 
   
 #Showcasing the application
@@ -28,6 +30,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 ![DoneMenu](applicationImages/DoneMenu.png)
 ![BinMenu](applicationImages/BinMenu.png)
 ![SettingsMenu](applicationImages/SettingsMenu.png)
+
 
 
 #How to install and test it
@@ -49,11 +52,13 @@ To check if it's already install open the Command Prompt or terminal and type 'j
     sudo apt install openjdk-17-jre 
 
 
+
 -> After installing the JRE
 1) Run the program by downloading the 'NoteTakingPRO.jar' file from this repository and save the file to a new folder of your choice,
 2) Double click on it,
 3) If double clicking doesn't work open your Command Prompt or terminal navigate to the directory containing the .jar file and type the command 'java -jar NoteTakingPRO.jar',
 4) The application should be running correctly.
+
 
 
  #License
