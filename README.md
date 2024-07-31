@@ -51,9 +51,12 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 ### After installing the JRE
 
 - Windows
-1) Run the program by downloading the NoteTakingPRO.exe file from this repository and save it to a folder in a location of your choice
-2) Double Click the file
-
+1) Open this link: https://drive.google.com/file/d/1jsUi5ZjAxXAhZxKlF2hMSsXC6F6z39_f/view?usp=sharing
+2) Dowload the zip to a location of your choise
+3) Unzip it
+4) Follow the instructions (you may want to check create desktop shortcut)
+5) The application should be installed and ready to lauch
+   
 - Linux/MacOS
 1) Run the program by downloading the NoteTakingPRO.jar file from this repository and save it to a folder in a location of your choice
 2) Open the terminal
