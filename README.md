@@ -50,13 +50,11 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 
 ### After installing the JRE
 
-Windows
--------
+- Windows
 1) Run the program by downloading the NoteTakingPRO.exe file from this repository and save it to a folder in a location of your choice
 2) Double Click the file
 
-Linux/MacOS
------------
+- Linux/MacOS
 1) Dowload the NoteTakingPRO.jar file from this repository and save it to a folder in a location of your choice
 2) Open the terminal
 3) Navigate to the folder that contains the .jar file (ex: `cd /path/to/folder/with/jarfile`)
