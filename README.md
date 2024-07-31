@@ -55,7 +55,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 2) Double Click the file
 
 - Linux/MacOS
-1) Dowload the NoteTakingPRO.jar file from this repository and save it to a folder in a location of your choice
+1) Run the program by downloading the NoteTakingPRO.jar file from this repository and save it to a folder in a location of your choice
 2) Open the terminal
 3) Navigate to the folder that contains the .jar file (ex: `cd /path/to/folder/with/jarfile`)
 4) Run the following command `java -jar NoteTakingPRO.jar`
