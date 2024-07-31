@@ -39,6 +39,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 To check if it's already install open the Command Prompt or terminal and type 'java -version' and press enter, it should display the version of the JRE if installed. 
 
 - Using the Oracle JRE download page
+  
   Access https://www.oracle.com/pt/java/technologies/downloads/#jdk17-windows,
   Download the corresponding installer,
   Run the installer,
@@ -46,6 +47,7 @@ To check if it's already install open the Command Prompt or terminal and type 'j
   To verify if the installation was a success open the Command Prompt or terminal and type 'java -version' and press enter, it should display the version of the JRE installed. 
 
 - Alternative using Linux (Ubuntu)
+  
   Open the terminal,
   Type the following:
     sudo apt update
@@ -62,5 +64,4 @@ To check if it's already install open the Command Prompt or terminal and type 'j
 
 
  #License
-
  Although the code was developed solely by me, you are free to test and modify it on your machine as you wish.
