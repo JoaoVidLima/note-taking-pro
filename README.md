@@ -49,16 +49,19 @@ A simple to-do application developed with Java Swing, offering a clean and minim
   ```
 
 ### After installing the JRE
-1) Run the program by downloading the code from this repository (Code > Dowload ZIP) and save it in a location of your choice
-2) Extract the ZIP
-3) Navigate to/Open the corresponding 'RunNoteTakingPRO' (Windows/Linux/Mac) folder (You can delete all the other folder)
-4) Run/Double click the 'runNoteTakingPRO.bat' or 'runNoteTakingPRO.sh' file
-5) If it doesn't work you may need to grant executable permissions to this script to ensure it can run the application.  
-On linux: `chmod +x runNoteTakingPRO.sh`
-6) The application should be running correctly.
 
-Alternatively just open your Command Prompt or Terminal, navigate to the directory where the .jar file is located and run the following code:  
-`java -jar NoteTakingPRO.jar`
+Windows
+-------
+1) Run the program by downloading the NoteTakingPRO.exe file from this repository and save it to a folder in a location of your choice
+2) Double Click the file
+
+Linux/MacOS
+-----------
+1) Dowload the NoteTakingPRO.jar file from this repository and save it to a folder in a location of your choice
+2) Open the terminal
+3) Navigate to the folder that contains the .jar file (ex: `cd /path/to/folder/with/jarfile`)
+4) Run the following command `java -jar NoteTakingPRO.jar`
+5) The application should be running correctly.
 
 ## License  
 Although the code was developed solely by me, you are free to test and modify it on your machine as you wish.
