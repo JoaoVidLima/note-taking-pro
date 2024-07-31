@@ -57,10 +57,11 @@ To check if it's already install open the Command Prompt or terminal and type 'j
 
 
 -> After installing the JRE
-1) Run the program by downloading the 'RunNoteTakingPRO' folder from this repository and save it in a location of your choice,
-2) Open the folder
-3) Double click on the 'runNoteTakingPRO.bat' file
-4) The application should be running correctly.
+1) Run the program by downloading the corresponding 'RunNoteTakingPRO' (Windows/Linux/Mac) folder from this repository and save it in a location of your choice,
+2) Navigate to/Open the folder
+3) Run the 'runNoteTakingPRO.bat' or 'runNoteTakingPRO.sh' file
+4) If it doesn't work you may need to grant executable permissions to this script to ensure it can run the application. On linux: chmod +x runNoteTakingPRO.sh
+5) The application should be running correctly.
 
 
 
