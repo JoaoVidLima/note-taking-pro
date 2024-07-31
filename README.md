@@ -50,7 +50,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 
 ### After installing the JRE
 1) Run the program by downloading the code from this repository (Code > Dowload ZIP) and save it in a location of your choice
-2) Navigate to/Open the corresponding 'RunNoteTakingPRO' (Windows/Linux/Mac) folder
+2) Navigate to/Open the corresponding 'RunNoteTakingPRO' (Windows/Linux/Mac) folder (You can delete all the other folder)
 3) Run/Double click the 'runNoteTakingPRO.bat' or 'runNoteTakingPRO.sh' file
 4) If it doesn't work you may need to grant executable permissions to this script to ensure it can run the application.  
 On linux: `chmod +x runNoteTakingPRO.sh`
