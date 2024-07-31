@@ -1,6 +1,5 @@
 
 # NoteTaking PRO
-________________
 
 ## Overview  
 A simple to-do application developed with Java Swing, offering a clean and minimalistic dark mode design. Created to learn and explore Java Swing for GUI development.
@@ -52,7 +51,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 ### After installing the JRE
 1) Run the program by downloading the corresponding 'RunNoteTakingPRO' (Windows/Linux/Mac) folder from this repository and save it in a location of your choice,
 2) Navigate to/Open the folder
-3) Run the 'runNoteTakingPRO.bat' or 'runNoteTakingPRO.sh' file
+3) Run/Double click the 'runNoteTakingPRO.bat' or 'runNoteTakingPRO.sh' file
 4) If it doesn't work you may need to grant executable permissions to this script to ensure it can run the application.  
 On linux: `chmod +x runNoteTakingPRO.sh`
 6) The application should be running correctly.
