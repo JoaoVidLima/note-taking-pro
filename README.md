@@ -18,9 +18,6 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 - Recycle Bin: Restore deleted notes with ease using the bin feature.
 - Simple Settings: Configure settings effortlessly.
 
-
-
-  
 #Showcasing the application
 
 ![UsernameFrame](applicationImages/UsernameFrame.png)
@@ -32,22 +29,20 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 ![BinMenu](applicationImages/BinMenu.png)
 ![SettingsMenu](applicationImages/SettingsMenu.png)
 
-
-
 #How to install and test it
 
-##Prerequisite
+Prerequisite
 - Install JRE (Java RunTime Environment, which include libraries, Java Virtual Machine (JVM), and other important components to run a java application).
   - To check if it's already install open the Command Prompt or terminal and type 'java -version' and press enter, it should display the version of the JRE if installed. 
 
 - Using the Oracle JRE download page
   
-  * Access https://www.oracle.com/pt/java/technologies/downloads/#jdk17-windows,
-  * Download the corresponding installer,
-  * Run the installer,
-  * Follow the installation instructions,
-  * Restart your machine,
-  * To verify if the installation was a success open the Command Prompt or terminal and type `java -version` and press enter, it should display the version of the JRE installed. 
+  - Access https://www.oracle.com/pt/java/technologies/downloads/#jdk17-windows,
+  - Download the corresponding installer,
+  - Run the installer,
+  - Follow the installation instructions,
+  - Restart your machine,
+  - To verify if the installation was a success open the Command Prompt or terminal and type `java -version` and press enter, it should display the version of the JRE installed. 
 
 - Alternative using Linux (Ubuntu)
   
@@ -58,19 +53,16 @@ A simple to-do application developed with Java Swing, offering a clean and minim
     sudo apt install openjdk-17-jre 
   ```
 
-
--> After installing the JRE
+After installing the JRE
 1) Run the program by downloading the corresponding 'RunNoteTakingPRO' (Windows/Linux/Mac) folder from this repository and save it in a location of your choice,
 2) Navigate to/Open the folder
 3) Run the 'runNoteTakingPRO.bat' or 'runNoteTakingPRO.sh' file
-4) If it doesn't work you may need to grant executable permissions to this script to ensure it can run the application. On linux:  
-`chmod +x runNoteTakingPRO.sh`
+4) If it doesn't work you may need to grant executable permissions to this script to ensure it can run the application. On linux:
+   `chmod +x runNoteTakingPRO.sh`
 6) The application should be running correctly.
 
 Alternatively just open your Command Prompt or Terminal, navigate to the directory where the .jar file is located and run the following code:  
 `java -jar NoteTakingPRO.jar`
 
-
-
- #License
+ #License  
  Although the code was developed solely by me, you are free to test and modify it on your machine as you wish.
