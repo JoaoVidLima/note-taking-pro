@@ -29,8 +29,8 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 ### Windows
 1) Open this link: https://drive.google.com/file/d/13xYvM5H4oukz5-3TY4ErTAJKYljnovYl/view?usp=sharing
 2) Dowload the file to a location of your choise
-3) Follow the instructions (you may want to check create desktop shortcut)
-4) The application should be installed and ready to lauch
+3) Follow these instructions (consider checking the option to create a desktop shortcut)
+4) The application should be installed and ready to launch
 
 ### Linux/MacOS
 #### Pre-requisites
@@ -40,7 +40,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 - Using the Oracle JRE download page  
   - Access https://www.oracle.com/pt/java/technologies/downloads,
   - Download the corresponding installer,
-  -  Run the installer,
+  - Run the installer,
   - Follow the installation instructions,
   - Restart your machine,
   - To verify if the installation was a success open the Command Prompt or terminal and type `java -version` and press enter, it should display the version of the JRE installed. 
