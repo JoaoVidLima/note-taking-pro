@@ -32,12 +32,12 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 
 - Using the Oracle JRE download page
   
-  - Access https://www.oracle.com/pt/java/technologies/downloads,
-  - Download the corresponding installer,
-  - Run the installer,
-  - Follow the installation instructions,
-  - Restart your machine,
-  - To verify if the installation was a success open the Command Prompt or terminal and type `java -version` and press enter, it should display the version of the JRE installed. 
+  1) Access https://www.oracle.com/pt/java/technologies/downloads,
+  2) Download the corresponding installer,
+  3) Run the installer,
+  4) Follow the installation instructions,
+  5) Restart your machine,
+  6) To verify if the installation was a success open the Command Prompt or terminal and type `java -version` and press enter, it should display the version of the JRE installed. 
 
 - Alternative using Linux (Ubuntu)
   
@@ -49,7 +49,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
   ```
 
 ### After installing the JRE
-1) Run the program by downloading the corresponding 'RunNoteTakingPRO' (Windows/Linux/Mac) folder from this repository and save it in a location of your choice,
+1) Run the program by downloading the corresponding 'RunNoteTakingPRO' (Windows/Linux/Mac) folder from this repository and save it in a location of your choice
 2) Navigate to/Open the folder
 3) Run/Double click the 'runNoteTakingPRO.bat' or 'runNoteTakingPRO.sh' file
 4) If it doesn't work you may need to grant executable permissions to this script to ensure it can run the application.  
