@@ -44,6 +44,7 @@ To check if it's already install open the Command Prompt or terminal and type 'j
   Download the corresponding installer,
   Run the installer,
   Follow the installation instructions,
+  Restart your machine,
   To verify if the installation was a success open the Command Prompt or terminal and type 'java -version' and press enter, it should display the version of the JRE installed. 
 
 - Alternative using Linux (Ubuntu)
