@@ -33,7 +33,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 
 - Using the Oracle JRE download page
   
-  - Access https://www.oracle.com/pt/java/technologies/downloads/#jdk17-windows,
+  - Access https://www.oracle.com/pt/java/technologies/downloads,
   - Download the corresponding installer,
   - Run the installer,
   - Follow the installation instructions,
