@@ -57,9 +57,9 @@ To check if it's already install open the Command Prompt or terminal and type 'j
 
 
 -> After installing the JRE
-1) Run the program by downloading the 'NoteTakingPRO.jar' file from this repository and save the file to a new folder of your choice,
-2) Double click on it,
-3) If double clicking doesn't work open your Command Prompt or terminal navigate to the directory containing the .jar file and type the command 'java -jar NoteTakingPRO.jar',
+1) Run the program by downloading the 'RunNoteTakingPRO' folder from this repository and save it in a location of your choice,
+2) Open the folder
+3) Double click on the 'runNoteTakingPRO.bat' file
 4) The application should be running correctly.
 
 
