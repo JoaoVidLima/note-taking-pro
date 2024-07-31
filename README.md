@@ -18,7 +18,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 - Simple Settings: Configure settings effortlessly.
 
   
-#Images
+#Showcasing the application
 
 ![UsernameFrame](applicationImages/UsernameFrame.png)
 ![WelcomingFrame](applicationImages/WelcomingFrame.png)
@@ -32,7 +32,29 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 
 #How to install and test it
 
-...
+-> Prerequisite - Install JRE (Java RunTime Environment, which include libraries, Java Virtual Machine (JVM), and other important components to run a java application).
+To check if it's already install open the Command Prompt or terminal and type 'java -version' and press enter, it should display the version of the JRE if installed. 
 
- 
+- Using the Oracle JRE download page
+  Access https://www.oracle.com/pt/java/technologies/downloads/#jdk17-windows,
+  Download the corresponding installer,
+  Run the installer,
+  Follow the installation instructions,
+  To verify if the installation was a success open the Command Prompt or terminal and type 'java -version' and press enter, it should display the version of the JRE installed. 
 
+- Alternative using Linux (Ubuntu)
+  Open the terminal,
+  Type the following:
+    sudo apt update
+    sudo apt install openjdk-17-jre 
+
+-> After installing the JRE
+1) Run the program by downloading the 'NoteTakingPRO.jar' file from this repository and save the file to a new folder of your choice,
+2) Double click on it,
+3) If double clicking doesn't work open your Command Prompt or terminal navigate to the directory containing the .jar file and type the command 'java -jar NoteTakingPRO.jar',
+4) The application should be running correctly.
+
+
+ #License
+
+ Although the code was developed solely by me, you are free to test and modify it on your machine as you wish.
