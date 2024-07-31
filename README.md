@@ -54,7 +54,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
     sudo apt install openjdk-17-jre 
   ```
 
-### After installing the JRE
+#### After installing the JRE
 1) Run the program by downloading the NoteTakingPRO.jar file from this repository and save it to a folder in a location of your choice
 2) Open the terminal
 3) Navigate to the folder that contains the .jar file (ex: `cd /path/to/folder/with/jarfile`)
