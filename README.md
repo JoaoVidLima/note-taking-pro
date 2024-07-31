@@ -28,7 +28,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 
 ### Pre-requisites
 - Install JRE (Java RunTime Environment, which include libraries, Java Virtual Machine (JVM), and other important components to run a java application).
-  - To check if it's already install open the Command Prompt or terminal and type 'java -version' and press enter, it should display the version of the JRE if installed. 
+  - To check if it's already installed open the Command Prompt or terminal and type 'java -version' and press enter, it should display the version of the JRE if installed (Version 17 or above reccomended). 
 
 - Using the Oracle JRE download page
   
