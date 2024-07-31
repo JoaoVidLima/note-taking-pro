@@ -48,6 +48,7 @@ To check if it's already install open the Command Prompt or terminal and type 'j
     sudo apt update
     sudo apt install openjdk-17-jre 
 
+
 -> After installing the JRE
 1) Run the program by downloading the 'NoteTakingPRO.jar' file from this repository and save the file to a new folder of your choice,
 2) Double click on it,
