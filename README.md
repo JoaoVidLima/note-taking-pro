@@ -2,14 +2,10 @@
 NoteTaking PRO
 --------------
 
-#Overview
-
+# Overview  
 A simple to-do application developed with Java Swing, offering a clean and minimalistic dark mode design. Created to learn and explore Java Swing for GUI development.
 
-
-
-#Features
-
+# Features  
 - Clean and Minimalistic Design: Welcoming and intuitive interface.
 - Customizable Notes: Create and personalize notes according to your preferences.
 - Organize Notes: Sort your notes either alphabetically or by the most recent modifications.
@@ -18,7 +14,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 - Recycle Bin: Restore deleted notes with ease using the bin feature.
 - Simple Settings: Configure settings effortlessly.
 
-#Showcasing the application
+# Showcasing the application
 
 ![UsernameFrame](applicationImages/UsernameFrame.png)
 ![WelcomingFrame](applicationImages/WelcomingFrame.png)
@@ -29,7 +25,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 ![BinMenu](applicationImages/BinMenu.png)
 ![SettingsMenu](applicationImages/SettingsMenu.png)
 
-#How to install and test it
+# How to install and test it
 
 Prerequisite
 - Install JRE (Java RunTime Environment, which include libraries, Java Virtual Machine (JVM), and other important components to run a java application).
@@ -57,12 +53,12 @@ After installing the JRE
 1) Run the program by downloading the corresponding 'RunNoteTakingPRO' (Windows/Linux/Mac) folder from this repository and save it in a location of your choice,
 2) Navigate to/Open the folder
 3) Run the 'runNoteTakingPRO.bat' or 'runNoteTakingPRO.sh' file
-4) If it doesn't work you may need to grant executable permissions to this script to ensure it can run the application. On linux:
-   `chmod +x runNoteTakingPRO.sh`
+4) If it doesn't work you may need to grant executable permissions to this script to ensure it can run the application.
+   On linux: `chmod +x runNoteTakingPRO.sh`
 6) The application should be running correctly.
 
 Alternatively just open your Command Prompt or Terminal, navigate to the directory where the .jar file is located and run the following code:  
-`java -jar NoteTakingPRO.jar`
+  `java -jar NoteTakingPRO.jar`
 
  #License  
  Although the code was developed solely by me, you are free to test and modify it on your machine as you wish.
