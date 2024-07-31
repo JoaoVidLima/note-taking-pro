@@ -25,13 +25,20 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 ![SettingsMenu](applicationImages/SettingsMenu.png)
 
 ## How to install and test it
+- Windows
+1) Open this link: https://drive.google.com/file/d/1jsUi5ZjAxXAhZxKlF2hMSsXC6F6z39_f/view?usp=sharing
+2) Dowload the zip to a location of your choise
+3) Unzip it
+4) Follow the instructions (you may want to check create desktop shortcut)
+5) The application should be installed and ready to lauch
 
-### Pre-requisites
+- Linux/MacOS
+ ### Pre-requisites
 - Install JRE (Java RunTime Environment, which include libraries, Java Virtual Machine (JVM), and other important components to run a java application).
-  - To check if it's already installed open the Command Prompt or terminal and type 'java -version' and press enter, it should display the version of the JRE if installed (Version 17 or above reccomended). 
+- To check if it's already installed open the Command Prompt or terminal and type 'java -version' and press enter, it should display the version of the JRE if installed (Version 17 or above reccomended). 
 
 - Using the Oracle JRE download page
-  
+
   - Access https://www.oracle.com/pt/java/technologies/downloads,
   - Download the corresponding installer,
   -  Run the installer,
@@ -49,15 +56,6 @@ A simple to-do application developed with Java Swing, offering a clean and minim
   ```
 
 ### After installing the JRE
-
-- Windows
-1) Open this link: https://drive.google.com/file/d/1jsUi5ZjAxXAhZxKlF2hMSsXC6F6z39_f/view?usp=sharing
-2) Dowload the zip to a location of your choise
-3) Unzip it
-4) Follow the instructions (you may want to check create desktop shortcut)
-5) The application should be installed and ready to lauch
-   
-- Linux/MacOS
 1) Run the program by downloading the NoteTakingPRO.jar file from this repository and save it to a folder in a location of your choice
 2) Open the terminal
 3) Navigate to the folder that contains the .jar file (ex: `cd /path/to/folder/with/jarfile`)
