@@ -28,7 +28,7 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 
 ### Windows
 1) Open this link: https://drive.google.com/file/d/13xYvM5H4oukz5-3TY4ErTAJKYljnovYl/view?usp=sharing
-2) Dowload the file to a location of your choise
+2) Dowload the file (installer) to a location of your choise
 3) Open it
 4) Follow the instructions (consider checking the option to create a desktop shortcut)
 5) The application should be installed and ready to launch
