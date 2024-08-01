@@ -66,4 +66,4 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 
 - I used an Eclipse Adoptium OpenJDK (https://adoptium.net/temurin/) under the terms of the "GNU General Public License, version 2 with the Classpath Exception".
 
-- I also used Launch4j and Inno Setup to create the .exe file and the installer for Windows.
+- I also used Launch4j (https://launch4j.sourceforge.net/) and Inno Setup (https://jrsoftware.org/isinfo.php) to create the .exe file and the installer for Windows.
