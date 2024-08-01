@@ -62,6 +62,8 @@ A simple to-do application developed with Java Swing, offering a clean and minim
 5) The application should be running correctly.
 
 ## License
-Although the source code of the app was developed solely by me, you are free to test and modify it on your machine as you wish.  
-I used an Eclipse Adoptium OpenJDK (https://adoptium.net/temurin/) under the terms of the "GNU General Public License, version 2 with the Classpath Exception".  
+Although the source code of the app was developed solely by me, you are free to test and modify it on your machine as you wish.
+
+I used an Eclipse Adoptium OpenJDK (https://adoptium.net/temurin/) under the terms of the "GNU General Public License, version 2 with the Classpath Exception".
+
 I also used Launch4j and Inno Setup to create the .exe file and the installer for Windows.
